@@ -1,0 +1,1 @@
+This repository es for learning about shell 
