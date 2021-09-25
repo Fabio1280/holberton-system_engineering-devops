@@ -1,0 +1,1 @@
+This directory has the objective to practice the setting of permissions in a shell
