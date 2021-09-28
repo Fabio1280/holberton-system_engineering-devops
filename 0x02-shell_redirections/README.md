@@ -1,0 +1,1 @@
+This directory is created for learnning and parctiing the commands related to the work with redirections in Bash's shells
