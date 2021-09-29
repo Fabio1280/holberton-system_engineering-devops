@@ -1,2 +1,2 @@
 #!/bin/bash
-cat '*.js' | rm
+find -name '*.js' | rm
